@@ -61,7 +61,7 @@ system('cls')
 #print(df.mask(df > 3,0))
 #--------
 #realizar consusltas con la funcion query
-#print(df.query('X > Y'))
+#print(df.query('X' > 'Y'))
 #print(df[df.X > df.Y]) #Mismo resultado
 #--------
 #realizar operaciones aritmeticas basicas entre dos objetos DF
